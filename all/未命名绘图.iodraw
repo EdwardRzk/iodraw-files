@@ -877,7 +877,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-174" value="STUDENT_ASSIGNMENT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="596" y="729" width="180" height="210" as="geometry">
+          <mxGeometry x="632" y="704" width="180" height="210" as="geometry">
             <mxRectangle x="596" y="729" width="178" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -960,7 +960,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-193" value="STUDENT_ANSWERS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="649" width="180" height="240" as="geometry">
+          <mxGeometry x="177" y="631" width="180" height="240" as="geometry">
             <mxRectangle x="164" y="614" width="147" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1383,7 +1383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-312" value="ASSIGNMENT_QUESTION" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="682" y="554" width="180" height="120" as="geometry">
+          <mxGeometry x="691" y="25" width="180" height="120" as="geometry">
             <mxRectangle x="271" y="595" width="184" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
