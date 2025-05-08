@@ -776,7 +776,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-132" value="STUDENT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="345" y="380" width="92" height="30" as="geometry">
+          <mxGeometry x="154" y="150" width="92" height="30" as="geometry">
             <mxRectangle x="210" y="158" width="180" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1461,7 +1461,7 @@
             <mxPoint x="167" y="153.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WyKeoDlXOJW6XtzVzSDK-353" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WyKeoDlXOJW6XtzVzSDK-352">
+        <mxCell id="WyKeoDlXOJW6XtzVzSDK-353" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WyKeoDlXOJW6XtzVzSDK-352">
           <mxGeometry x="0.0155" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
