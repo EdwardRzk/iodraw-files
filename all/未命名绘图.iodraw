@@ -1056,7 +1056,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-215" value="ASSIGNMENT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="609" y="312" width="180" height="300" as="geometry">
+          <mxGeometry x="556" y="199" width="180" height="300" as="geometry">
             <mxRectangle x="609" y="73" width="114" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1383,7 +1383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-312" value="ASSIGNMENT_QUESTION" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="429" y="633" width="180" height="120" as="geometry">
+          <mxGeometry x="567" y="546" width="180" height="120" as="geometry">
             <mxRectangle x="271" y="595" width="184" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
