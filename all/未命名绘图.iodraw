@@ -1468,12 +1468,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WyKeoDlXOJW6XtzVzSDK-365" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;curved=1;entryX=0.494;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.861;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WyKeoDlXOJW6XtzVzSDK-283" target="WyKeoDlXOJW6XtzVzSDK-342">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="750.08" y="944" as="sourcePoint" />
-            <mxPoint x="24.00000000000007" y="679.01" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
