@@ -1479,7 +1479,7 @@
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-355" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WyKeoDlXOJW6XtzVzSDK-354">
           <mxGeometry x="0.0155" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-43" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
