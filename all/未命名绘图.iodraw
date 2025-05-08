@@ -833,7 +833,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyKeoDlXOJW6XtzVzSDK-161" value="GRADE_CLASS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="198" y="149" width="117" height="30" as="geometry">
+          <mxGeometry x="273" y="209" width="117" height="30" as="geometry">
             <mxRectangle x="210" y="158" width="180" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1482,10 +1482,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WyKeoDlXOJW6XtzVzSDK-356" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.412;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WyKeoDlXOJW6XtzVzSDK-161">
+        <mxCell id="WyKeoDlXOJW6XtzVzSDK-356" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.412;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="213.01599999999996" y="102" as="sourcePoint" />
-            <mxPoint x="194" y="166" as="targetPoint" />
+            <mxPoint x="203.99599999999995" y="161.99" as="sourcePoint" />
+            <mxPoint x="263.98000000000013" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
